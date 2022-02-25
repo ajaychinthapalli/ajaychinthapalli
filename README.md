@@ -17,5 +17,3 @@ I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaychinthapalli&show_icons=true&locale=en" alt="ajaychinthapalli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychinthapalli&" alt="ajaychinthapalli" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaychinthapalli&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychinthapalli" /> </p>
