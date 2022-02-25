@@ -1,5 +1,5 @@
 ## Hi, I am Ajay :wave:
-I do DevOps stuff, mostly with Java DevOps/GitHub. I experiment with a lot of this stuff here on GitHub.
+I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with a lot of this stuff here on GitHub.
 
 ## About :gear:
 * Name: Ajay Chinthapalli
