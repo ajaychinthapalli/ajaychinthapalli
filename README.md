@@ -33,4 +33,4 @@ I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaychinthapalli&show_icons=true&locale=en" alt="ajaychinthapalli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychinthapalli&" alt="ajaychinthapalli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychinthapalli&show_icons=true&locale=en" alt="ajaychinthapalli" /></p>
