@@ -30,3 +30,12 @@ I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with 
 * Locale: United States of America
 * Twitter: [@achin0804](https://twitter.com/achin0804)
 * LinkedIn: [linkedin.com/in/ajay-chinthapalli-2a1292139/](https://www.linkedin.com/in/ajay-chinthapalli-2a1292139/)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaychinthapalli&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaychinthapalli&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaychinthapalli&theme=default)
+
+
+
