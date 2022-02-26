@@ -30,7 +30,3 @@ I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with 
 * Locale: United States of America
 * Twitter: [@achin0804](https://twitter.com/achin0804)
 * LinkedIn: [linkedin.com/in/ajay-chinthapalli-2a1292139/](https://www.linkedin.com/in/ajay-chinthapalli-2a1292139/)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaychinthapalli&show_icons=true&locale=en" alt="ajaychinthapalli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychinthapalli&" alt="ajaychinthapalli" /></p>
