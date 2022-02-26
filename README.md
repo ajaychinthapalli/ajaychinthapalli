@@ -35,7 +35,4 @@ I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaychinthapalli&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaychinthapalli&theme=default)
-
-
 
