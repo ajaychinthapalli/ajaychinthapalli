@@ -31,8 +31,9 @@ I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with 
 * Twitter: [@achin0804](https://twitter.com/achin0804)
 * LinkedIn: [linkedin.com/in/ajay-chinthapalli-2a1292139/](https://www.linkedin.com/in/ajay-chinthapalli-2a1292139/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaychinthapalli&theme=default)
+[![](https://raw.githubusercontent.com/ajaychinthapalli/ajaychinthapalli/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ajaychinthapalli/ajaychinthapalli/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ajaychinthapalli/ajaychinthapalli/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ajaychinthapalli/ajaychinthapalli/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ajaychinthapalli/ajaychinthapalli/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaychinthapalli&theme=default)
 
 
