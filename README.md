@@ -1,7 +1,7 @@
 ## Hi, I am Ajay :wave:
 I do Coding and DevOps stuff, mostly with Java DevOps/GitHub. I experiment with a lot of this stuff here on GitHub.
 
-- 🌱 I’m currently learning **GitHub Actions**
+- 🌱 I’m currently learning **GitHub Actions** & **Kotlin**
 - 💬 Ask me about **Java**
 
 <h3 align="left">Languages and Tools:</h3>
