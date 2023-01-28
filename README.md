@@ -3,6 +3,8 @@ Ajay is passionate about programming with a demonstrated history of design, deve
 
 Strong backend development experience using Java/J2EE, C#, Spring, Vert.x, JDBC, Hibernate, JMS and Web services (SOAP & REST). Worked with multiple databases Oracle DB, IBM DB2, Vertica, MySQL and CouchDB. Other areas of expertise including continuous integration & continuous deployment using GitHub Actions. 
 
+![GitHub Metrics](https://metrics.lecoq.io/ajaychinthapalli) 
+
 
 
 
